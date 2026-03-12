@@ -53,3 +53,11 @@ You may also need to change the bundle identifier in the folder structure on the
 You may also need to change the bundle identifier in the folder structure on the left: Fe-Mini Extension > Info.plist at the bottom.
 
 After this, you should be able to build the project and run it.
+
+## Demo Screenshots
+
+
+![login](https://github.com/user-attachments/assets/2803b329-07ea-41fb-a6f8-bf776afe783b)
+![home page](https://github.com/user-attachments/assets/a7f2464d-e6ed-4012-bc3b-928099a2bdcd)
+
+
